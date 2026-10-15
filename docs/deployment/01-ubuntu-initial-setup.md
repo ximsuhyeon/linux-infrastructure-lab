@@ -49,7 +49,7 @@
 | 검증 명령어 | `ip a` |
 | 결과 | 고정 IP 할당 및 인터페이스 활성 상태 확인 |
 
-![네트워크 설정 검증](../../evidence/01-network-configuration.png)
+![네트워크 설정 검증](/ximsuhyeon/linux-infrastructure-lab/blob/main/evidence/01-network-configuration.png)
 
 ### 4.2 초기 스냅샷
 
@@ -59,7 +59,7 @@
 | 목적 | 초기 정상 구성 상태 보존 |
 | 결과 | VMware 스냅샷 생성 완료 |
 
-![초기 스냅샷](../../evidence/02-initial-snapshot.png)
+![초기 스냅샷](/ximsuhyeon/linux-infrastructure-lab/blob/main/evidence/02-initial-snapshot.png)
 ## 5. 작업 결과
 
 - Ubuntu Server 초기 설치 완료
