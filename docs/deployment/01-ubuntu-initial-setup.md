@@ -60,7 +60,6 @@
 | 결과 | VMware 스냅샷 생성 완료 |
 
 ![초기 스냅샷](../../evidence/02-initial-snapshot.png)
-
 ## 5. 작업 결과
 
 - Ubuntu Server 초기 설치 완료
